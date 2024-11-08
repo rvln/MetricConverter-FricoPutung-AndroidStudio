@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Metric Converter</string>
+    <string name="dari">dari</string>
+    <string name="ke">ke</string>
+    <string name="myname">By Frico Rama Putung</string>
+    <string name="convert">Konversi</string>
+    <string name="enter_value">Input Angka</string>
+    <string name="result">Hasil</string>
+    <string name="metric_converter">Metric Converter</string>
+    </resources>
